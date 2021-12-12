@@ -3,6 +3,7 @@
 **一个安卓端的UI状态加载器**
 
 **效果预览**
+
 ![example](https://upload-images.jianshu.io/upload_images/25929436-7e89465ee1538514.gif?imageMogr2/auto-orient/strip)
 
 **添加依赖**
