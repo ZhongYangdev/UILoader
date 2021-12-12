@@ -88,6 +88,7 @@ if (mUiLoader != null) {
 ```
 
 **重试按钮点击事件**
+
 当请求数据网络错误时，会返回*NETWORK_ERROR*状态，此时需要设置重试按钮点击事件
 
 ```
@@ -100,6 +101,7 @@ mUiLoader.setOnRetryClickListener(new IRetryClickListener() {
 ```
 
 **替换默认布局文件**
+
 在创建UILoader时，复写对应的布局文件加载方法，返回自定义的布局文件即可。此处以加载中文件为例，其他状态依葫芦画瓢即可
 
 ```
