@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--默认主色调-->
+    <color name="main">#03A9F4</color>
+    <!--主色_200-->
+    <color name="main_light">#81D4FA</color>
+</resources>
