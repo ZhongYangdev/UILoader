@@ -4,6 +4,11 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Development_Space/Android/Peoject/Library_Project/UILoader/Library/src/main/res/layout/view_loading.xml" value="0.23125" />
+        <entry key="..\:/Development_Space/Android/Peoject/Library_Project/UILoader/app/src/main/res/layout/activity_fragemnt.xml" value="0.23125" />
+        <entry key="..\:/Development_Space/Android/Peoject/Library_Project/UILoader/app/src/main/res/layout/activity_main.xml" value="0.2074074074074074" />
+        <entry key="..\:/Development_Space/Android/Peoject/Library_Project/UILoader/app/src/main/res/layout/fragemnt_ui.xml" value="0.23125" />
+        <entry key="..\:/Development_Space/Android/Peoject/Library_Project/UILoader/app/src/main/res/layout/layout_diy_loading.xml" value="0.23125" />
+        <entry key="..\:/Development_Space/Android/Peoject/Library_Project/UILoader/app/src/main/res/layout/layout_success.xml" value="0.23125" />
       </map>
     </option>
   </component>
