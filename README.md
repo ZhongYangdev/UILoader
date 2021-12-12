@@ -2,6 +2,9 @@
 
 **一个安卓端的UI状态加载器**
 
+**效果预览**
+![example](gif\example.gif)
+
 **添加依赖**
 
 1. 在Project的build.gradle文件中添加maven仓库
